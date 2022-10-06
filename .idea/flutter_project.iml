@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/listview/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/listview/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/listview/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tabbar/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/tabbar/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tabbar/build" />
+      <excludeFolder url="file://$MODULE_DIR$/large/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/large/build" />
+      <excludeFolder url="file://$MODULE_DIR$/large/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/download/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/download/build" />
+      <excludeFolder url="file://$MODULE_DIR$/download/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/first/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/first/build" />
+      <excludeFolder url="file://$MODULE_DIR$/first/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/widget/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/widget/build" />
+      <excludeFolder url="file://$MODULE_DIR$/widget/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/material_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/material_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/material_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_font_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_font_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_font_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/http_example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/http_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/http_example/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
